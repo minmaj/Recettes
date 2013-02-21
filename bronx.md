@@ -1,10 +1,10 @@
 # Recette de Bronx
 
 ## Liste des ingrédients
-	*6	cl	jus d'orange
-	*1.5	cl	vermouth blanc (liqueur de vin)
-	*1.5	cl	vermouth rouge (liqueur de vin)
-	*3	cl	gin (dry)
+	*6	oz liq	jus d'orange
+	*1.5	oz liq	vermouth blanc (liqueur de vin)
+	*1.5	oz liq	vermouth rouge (liqueur de vin)
+	*3	oz liq	gin (dry)
 
 ## Préparation de la recette Bronx
 
