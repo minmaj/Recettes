@@ -13,3 +13,4 @@ Servir dans un *verre old-fashioned* avec des glaçons et décoré d'un zeste d'
 
 *variante :*
 Mettez dans un shaker les ingrédients ainsi que les glaçons puis secouez bien. Passez le tout dans un verre à cocktail ou à Martini givré. Servez le cocktail directement, sans glaçons.
+
